@@ -119,7 +119,7 @@
 <img src="https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 </a>
 
-<a href="https://vps.bandaheali.site/">
+<a href="https://naveed-vps.vercel.app/">
 <img src="https://img.shields.io/badge/FREE_VPS-FF006E?style=for-the-badge&logo=linux&logoColor=white"/>
 </a>
 
