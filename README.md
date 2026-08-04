@@ -91,7 +91,7 @@
 <img src="https://img.shields.io/badge/PAIR_CODE_V2-2962FF?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<a href="https://naveed-md-pair-1-4f8d5e45b214.herokuapp.com/qr">
+<a href="https://pair-site-7becdd446784.herokuapp.com/qr">
 <img src="https://img.shields.io/badge/QR_CODE-FF9800?style=for-the-badge&logo=qrcode&logoColor=white"/>
 </a>
 
