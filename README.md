@@ -81,17 +81,17 @@
 ---
 # 🔗 SESSION WEBSITE
 
-<p align="https://pair-site-7becdd446784.herokuapp.com/">
+<p align="https://naveed-pair-site-e79863eda6df.herokuapp.com/">
 
-<a href="https://pair-site-7becdd446784.herokuapp.com/">
+<a href="https://naveed-pair-site-e79863eda6df.herokuapp.com/">
 <img src="https://img.shields.io/badge/PAIR_CODE_V1-00C853?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<a href="https://pair-site-7becdd446784.herokuapp.com/">
+<a href="https://naveed-pair-site-e79863eda6df.herokuapp.com/">
 <img src="https://img.shields.io/badge/PAIR_CODE_V2-2962FF?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<a href="https://pair-site-7becdd446784.herokuapp.com/qr">
+<a href="https://naveed-pair-site-e79863eda6df.herokuapp.com/qr">
 <img src="https://img.shields.io/badge/QR_CODE-FF9800?style=for-the-badge&logo=qrcode&logoColor=white"/>
 </a>
 
