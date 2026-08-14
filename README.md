@@ -10,42 +10,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=🔥+WELCOME+TO+NAVEED+MD;⚡+FAST+•+SECURE+•+POWERFUL;🤖+WHATSAPP+MULTI+DEVICE+BOT;💚+MADE+WITH+JAVASCRIPT;🚀+DEPLOY+AND+ENJOY" />
 </center>
 
-<style>
-  .vip-btn {
-    display: inline-block;
-    padding: 10px 18px;
-    margin: 8px;
-    border-radius: 12px;
-    font-weight: bold;
-    color: white;
-    text-decoration: none;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
-    transition: 0.3s;
-    border: none;
-  }
-  .vip-btn:hover { transform: scale(1.05); filter: brightness(1.2); }
-  .btn-editor { background: linear-gradient(45deg, #000, #00FF00); }
-  .btn-run { background: linear-gradient(45deg, #00FF88, #00CC66); }
-  .btn-paste { background: linear-gradient(45deg, #6A5AF9, #8A2BE2); }
-  .btn-file { background: linear-gradient(45deg, #FF8C00, #FFD700); }
-  .btn-clear { background: linear-gradient(45deg, #FF0040, #FF5E7E); }
-  .btn-save { background: linear-gradient(45deg, #00D4FF, #0080FF); }
-  .btn-neon { background: #121212; border: 2px solid #00FF99; color: #00FF99; }
-</style>
-
 <center>
-  <a href="#" class="vip-btn btn-editor">EDITOR</a>
-  <a href="#" class="vip-btn btn-run">RUN</a>
-  <a href="#" class="vip-btn btn-paste">PASTE</a>
-  <a href="#" class="vip-btn btn-file">FILE</a>
-  <a href="#" class="vip-btn btn-clear">CLEAR</a>
-  <a href="#" class="vip-btn btn-save">SAVE</a>
+  <a href="#" style="display:inline-block; padding:10px 18px; margin:5px; border-radius:12px; font-weight:bold; color:white; text-decoration:none; background:linear-gradient(45deg, #000, #00FF00);">EDITOR</a>
+  <a href="#" style="display:inline-block; padding:10px 18px; margin:5px; border-radius:12px; font-weight:bold; color:white; text-decoration:none; background:linear-gradient(45deg, #00FF88, #00CC66);">RUN</a>
+  <a href="#" style="display:inline-block; padding:10px 18px; margin:5px; border-radius:12px; font-weight:bold; color:white; text-decoration:none; background:linear-gradient(45deg, #6A5AF9, #8A2BE2);">PASTE</a>
+  <a href="#" style="display:inline-block; padding:10px 18px; margin:5px; border-radius:12px; font-weight:bold; color:white; text-decoration:none; background:linear-gradient(45deg, #FF8C00, #FFD700);">FILE</a>
+  <a href="#" style="display:inline-block; padding:10px 18px; margin:5px; border-radius:12px; font-weight:bold; color:white; text-decoration:none; background:linear-gradient(45deg, #FF0040, #FF5E7E);">CLEAR</a>
+  <a href="#" style="display:inline-block; padding:10px 18px; margin:5px; border-radius:12px; font-weight:bold; color:white; text-decoration:none; background:linear-gradient(45deg, #00D4FF, #0080FF);">SAVE</a>
 </center>
 
 <center>
-  <a href="#" class="vip-btn btn-neon">Auto: OFF</a>
-  <a href="#" class="vip-btn btn-neon">Full</a>
-  <a href="#" class="vip-btn btn-neon">Tab</a>
+  <a href="#" style="display:inline-block; padding:10px 18px; margin:5px; border-radius:12px; font-weight:bold; color:#00FF99; text-decoration:none; border:2px solid #00FF99; background:#121212;">Auto: OFF</a>
+  <a href="#" style="display:inline-block; padding:10px 18px; margin:5px; border-radius:12px; font-weight:bold; color:#00FF99; text-decoration:none; border:2px solid #00FF99; background:#121212;">Full</a>
+  <a href="#" style="display:inline-block; padding:10px 18px; margin:5px; border-radius:12px; font-weight:bold; color:#00FF99; text-decoration:none; border:2px solid #00FF99; background:#121212;">Tab</a>
 </center>
 
 --- 
@@ -98,3 +75,5 @@
 + 🔥 Developer: NAVEED-MD
 +═══════════════════════════════+
 ```
+
+<img src="https://ik.imagekit.io/shaban/SHABAN-1784205527063_Zze7YpdxH.jpeg" width="100%" />
