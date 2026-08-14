@@ -1,16 +1,16 @@
-<p align="center">
+"center">
   <img src="https://ik.imagekit.io/shaban/SHABAN-1784205527063_Zze7YpdxH.jpeg" width="250"/>
 </p>
 
 <h1 align="center">⚡ NAVEED-MD ⚡</h1>
-<p align="center">
+"center">
 🚀 The Ultimate WhatsApp Multi Device Bot • Fast • Secure • AI Powered • Easy Deployment
 </p>
-<p align="center">
+"center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=🔥+WELCOME+TO+NAVEED+MD;⚡+FAST+•+SECURE+•+POWERFUL;🤖+WHATSAPP+MULTI+DEVICE+BOT;💚+MADE+WITH+JAVASCRIPT;🚀+DEPLOY+AND+ENJOY" />
 </p>
 
-<p align="center">
+"center">
 <a href="https://github.com/naveedahmed35581-arch">
 <img src="https://img.shields.io/badge/🌟_OWNER-NAVEED--MD-FF006E?style=for-the-badge&logo=github&logoColor=white&labelColor=121212&color=FF006E"/>
 </a>
@@ -32,7 +32,7 @@
 
 # 📢 OFFICIAL LINKS
 
-<p align="center">
+"center">
 
 <a href="https://whatsapp.com/channel/0029Vawbj7e5kg7AFF5MuZ28">
 <img src="https://img.shields.io/badge/📢_JOIN_WHATSAPP_CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=121212&color=25D366"/>
@@ -53,7 +53,7 @@
 
 ---
 
-<p align="center">
+"center">
 🔥😂 NAVEED MAFIYA 👑 — Bot apna, style apna, scene full VIP 😎💀🔥
 </p>
 
@@ -61,7 +61,7 @@
 
 # ✨ FEATURES
 
-<p align="center">
+"center">
 
 <img src="https://img.shields.io/badge/🤖_AI_COMMANDS-ONLINE-00C853?style=for-the-badge&labelColor=121212&color=00C853"/>
 
@@ -87,7 +87,7 @@
 
 ---
 
-<p align="center">
+"center">
 🔥😂 NAVEED MAFIYA 👑 — Bot apna, style apna, scene full VIP 😎💀🔥
 </p>
 
@@ -95,7 +95,7 @@
 
 # 🔗 SESSION WEBSITE
 
-<p align="center">
+"center">
 
 <a href="https://naveed-md-zoni-151c2f02a0ec.herokuapp.com/">
 <img src="https://img.shields.io/badge/🔗_PAIR_CODE_V1-2962FF?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=121212&color=2962FF"/>
@@ -113,7 +113,7 @@
 
 ---
 
-<p align="center">
+"center">
 🔥😂 NAVEED MAFIYA 👑 — Bot apna, style apna, scene full VIP 😎💀🔥
 </p>
 
@@ -121,7 +121,7 @@
 
 # 🚀 DEPLOY NOW
 
-<p align="center">
+"center">
 
 <a href="https://dashboard.heroku.com/new-app?template=https://github.com/naveedahmed35581-arch/NAVEED-MD">
 <img src="https://img.shields.io/badge/⚡_DEPLOY_ON_HEROKU-9C27B0?style=for-the-badge&logo=heroku&logoColor=white&labelColor=121212&color=9C27B0"/>
@@ -147,7 +147,7 @@
 
 ---
 
-<p align="center">
+"center">
 🔥😂 NAVEED MAFIYA 👑 — Bot apna, style apna, scene full VIP 😎💀🔥
 </p>
 
@@ -173,21 +173,21 @@
 
 # 📊 PROJECT STATS
 
-<p align="center">
+"center">
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%">
 </p>
 
-<p align="center">
+"center">
   <img src="https://github-readme-stats.vercel.app/api?username=naveedahmed35581-arch&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
+"center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=naveedahmed35581-arch&theme=tokyonight" />
 </p>
 
 ---
 
-<p align="center">
+"center">
 🔥😂 NAVEED MAFIYA 👑 — Bot apna, style apna, scene full VIP 😎💀🔥
 </p>
 
