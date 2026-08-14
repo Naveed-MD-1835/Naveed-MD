@@ -185,6 +185,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=naveedahmed35581-arch&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://ik.imagekit.io/shaban/SHABAN-1784205527063_Zze7YpdxH.jpeg" width="100%" />
+</p>
+
 ---
 
 <p align="center">
