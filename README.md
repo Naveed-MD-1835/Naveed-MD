@@ -155,8 +155,6 @@
 
 # ⚠️ DISCLAIMER
 
-## ⚠️ DISCLAIMER
-
 <div align="center">
 
 > 🚫 **NAVEED-MD is an independent WhatsApp bot project.**
@@ -173,18 +171,18 @@
 
 ---
 
----
 # 📊 PROJECT STATS
 
 <p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%">
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=naveedahmed35581-arch&show_icons=true&theme=tokyonight" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%">
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=naveedahmed35581-arch&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naveedahmed35581-arch&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=naveedahmed35581-arch&theme=tokyonight" />
 </p>
 
 ---
